@@ -1,4 +1,6 @@
-# Домашнее задание к лекции «Unit-тестирование»
+[![Build status](https://ci.appveyor.com/api/projects/status/6oy58167lhdego52?svg=true)](https://ci.appveyor.com/project/EvgeniyEgoorov/ajs-ci-1)
+
+# Домашнее задание к лекции «Unit-тестирование». Задача №1
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
